@@ -1,5 +1,6 @@
 DoS tool
 =============
+
 How to use it:
 Examples:
 
@@ -9,4 +10,5 @@ Examples:
 
 
 Only For Educational Purposes
+#Whatsapp Group Link-https://chat.whatsapp.com/CHdRSXCjRtpBE7v9Nba1y6
 # dosattack
